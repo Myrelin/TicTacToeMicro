@@ -1,5 +1,6 @@
 package com.codecool.avatarservice.controller;
 
+import com.codecool.avatarservice.model.Avatar;
 import com.codecool.avatarservice.service.AvatarService;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +17,9 @@ public class AvatarServiceController {
     private AvatarService avatarService;
 
     @GetMapping("/randomavatar")
-    public String retrieveAvatar() {
-        return avatarService.generateAvatar();
+    public Avatar retrieveAvatar() {
+        return new Avatar(
+                avatarService.generateAvatar()
+        );
     }
 }

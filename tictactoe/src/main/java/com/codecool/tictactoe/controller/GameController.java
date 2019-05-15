@@ -1,7 +1,6 @@
 package com.codecool.tictactoe.controller;
 
 import com.codecool.tictactoe.Service.ServiceCaller;
-import com.codecool.tictactoe.model.ComicSelection;
 import com.codecool.tictactoe.model.Player;
 import com.codecool.tictactoe.model.TicTacToeGame;
 import lombok.Data;
@@ -33,7 +32,7 @@ public class GameController {
 
     @ModelAttribute("avatar_uri")
     public String getAvatarUri() {
-        return "https://robohash.org/codecool";
+        return serviceCaller.retrieveAvatar();
     }
 
 
@@ -49,7 +48,7 @@ public class GameController {
 
     @GetMapping(value = "/game")
     public String gameView(@ModelAttribute("player") Player player, Model model) {
-        model.addAttribute("funfact", "&quot;Chuck Norris knows the last digit of pi.&quot;");
+        model.addAttribute("swansonism", serviceCaller.retrieveSwansonism());
         model.addAttribute("comic_uri", serviceCaller.retrieveXKCD());
         return "game";
     }

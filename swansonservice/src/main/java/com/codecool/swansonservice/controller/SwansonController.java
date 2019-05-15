@@ -1,5 +1,6 @@
 package com.codecool.swansonservice.controller;
 
+import com.codecool.swansonservice.model.Swanson;
 import com.codecool.swansonservice.service.SwansonService;
 import lombok.Data;
 
@@ -19,8 +20,10 @@ public class SwansonController {
     private SwansonService swansonService;
 
     @GetMapping("/swanson")
-    public String retrieveSwansonism() {
-        return swansonService.getSwansonism();
+    public Swanson retrieveSwansonism() {
+        return new Swanson(
+                swansonService.getSwansonism()
+        );
     }
 
 }

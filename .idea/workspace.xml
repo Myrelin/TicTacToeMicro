@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f40b941-0e63-411c-a820-3b7fe8f77e84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/ComicSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/TicTacToeGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/model/Avatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/model/Swanson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/controller/AvatarServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/controller/AvatarServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/service/AvatarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/service/AvatarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/controller/ComicServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/controller/ComicServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/model/Comic.java" beforeDir="false" afterPath="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/model/Comic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/controller/SwansonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/controller/SwansonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe/src/main/resources/templates/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe/src/main/resources/templates/game.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/comicservice/target/" />
     <ignored path="$PROJECT_DIR$/avatarservice/target/" />
@@ -43,113 +45,39 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/model/Comic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/ComicSelection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="509">
+              <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#412#426#1" expanded="true" />
+                <element signature="e#587#603#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/Player.java">
+        <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/service/SwansonService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="342">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/TicTacToeGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
-                <element signature="e#970#971#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/controller/GameController.java">
+        <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/controller/SwansonController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            <state relative-caret-position="432">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#907#908#0" expanded="true" />
-                <element signature="e#961#962#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-                <element signature="e#1173#1174#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tictactoe/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -169,15 +97,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/controller/ComicServiceController.java" />
-        <option value="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/model/Comic.java" />
-        <option value="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/model/Avatar.java" />
-        <option value="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/controller/AvatarServiceController.java" />
-        <option value="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/service/AvatarService.java" />
         <option value="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/service/ComicService.java" />
-        <option value="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/model/Swanson.java" />
-        <option value="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/controller/SwansonController.java" />
-        <option value="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/service/SwansonService.java" />
         <option value="$PROJECT_DIR$/service-registry/pom.xml" />
         <option value="$PROJECT_DIR$/service-registry/src/test/java/com/codecool/serviceregistry/ServiceRegistryApplicationTests.java" />
         <option value="$PROJECT_DIR$/service-registry/src/main/resources/application.properties" />
@@ -191,16 +111,28 @@
         <option value="$PROJECT_DIR$/comicservice/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/swansonservice/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/avatarservice/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/tictactoe/pom.xml" />
         <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/TictactoeApplication.java" />
-        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java" />
-        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java" />
         <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/ComicSelection.java" />
         <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/Player.java" />
         <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/TicTacToeGame.java" />
-        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/controller/GameController.java" />
-        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java" />
         <option value="$PROJECT_DIR$/tictactoe/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tictactoe/src/main/resources/static/style.css" />
+        <option value="$PROJECT_DIR$/tictactoe/src/main/resources/templates/game.html" />
+        <option value="$PROJECT_DIR$/tictactoe/src/main/resources/templates/welcome.html" />
+        <option value="$PROJECT_DIR$/tictactoe/pom.xml" />
+        <option value="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/controller/ComicServiceController.java" />
+        <option value="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/Avatar.java" />
+        <option value="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/service/AvatarService.java" />
+        <option value="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/controller/AvatarServiceController.java" />
+        <option value="$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/model/Comic.java" />
+        <option value="$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/model/Avatar.java" />
+        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java" />
+        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java" />
+        <option value="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/model/Swanson.java" />
+        <option value="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/service/SwansonService.java" />
+        <option value="$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/controller/SwansonController.java" />
+        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java" />
+        <option value="$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/controller/GameController.java" />
       </list>
     </option>
   </component>
@@ -228,9 +160,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="36" />
-    <option name="width" value="1878" />
-    <option name="height" value="609" />
+    <option name="x" value="42" />
+    <option name="width" value="1868" />
+    <option name="height" value="616" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -244,6 +176,168 @@
           <expand>
             <path>
               <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="avatarservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comicservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swansonservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
               <item name="tictactoe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -271,6 +365,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tictactoe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tictactoe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tictactoe" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TicTacToeMicro" type="b2602c69:ProjectViewProjectNode" />
@@ -324,7 +427,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557887509226" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557890552114" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../create-react-app/packages/create-react-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -397,15 +500,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557876336112</updated>
-      <workItem from="1557876337663" duration="9665000" />
+      <workItem from="1557876337663" duration="12427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9665000" />
+    <option name="totallyTimeSpent" value="12427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -415,7 +519,7 @@
       <window_info id="Web" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.8761905" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.26190478" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -462,18 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/controller/AvatarServiceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/model/Avatar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -484,71 +576,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/service/AvatarService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/model/Swanson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swansonservice/src/test/java/com/codecool/swansonservice/SwansonserviceApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/service/SwansonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/controller/SwansonController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/controller/ComicServiceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/service/ComicService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -590,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/AvatarserviceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swansonservice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -615,13 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="79" column="21" selection-start-line="36" selection-start-column="5" selection-end-line="79" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tictactoe/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1401">
-          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -664,30 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/model/Comic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -710,13 +703,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/ComicSelection.java">
+    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/resources/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="792">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/resources/templates/game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="106" column="7" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/resources/templates/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -727,33 +731,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java">
+    <entry file="file://$PROJECT_DIR$/tictactoe/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/ComicSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/AvatarserviceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/controller/ComicServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/model/Avatar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/SwansonismSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/service/ComicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/model/Swanson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/model/AvatarSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comicservice/src/main/java/com/codecool/comicservice/model/Comic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/service/SwansonService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/controller/AvatarServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avatarservice/src/main/java/com/codecool/avatarservice/service/AvatarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/Service/ServiceCaller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#412#426#1" expanded="true" />
+            <element signature="e#587#603#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tictactoe/src/main/java/com/codecool/tictactoe/controller/GameController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        <state relative-caret-position="322">
+          <caret line="50" column="75" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
             <element signature="e#961#962#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1134#1135#0" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swansonservice/src/main/java/com/codecool/swansonservice/controller/SwansonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

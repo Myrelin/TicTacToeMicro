@@ -1,6 +1,7 @@
 package com.codecool.avatarservice.service;
 
 
+import com.codecool.avatarservice.model.Avatar;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -25,8 +26,6 @@ public class AvatarService {
 
     public String generateAvatar() {
        return avatarUrl + getRandomAvatarNumber() + fileExtension;
-//        Avatar randomAvatar = restTemplate
-//                .getForObject(url, Avatar.class);
 
     }
 }

@@ -22,11 +22,6 @@ public class ComicServiceController {
 
     @GetMapping("/randomcomic")
     public Comic retrieveComic() {
-/*        return new Comic(
-                comicService.getRandomComic().getComicImage(),
-                env.getProperty("server.port")
-        );*/
-
         return comicService.getRandomComic();
     }
 }
