@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="avatarservice" />
         <module name="comicservice" />
+        <module name="service-registry" />
         <module name="swansonservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="avatarservice" target="1.8" />
       <module name="comicservice" target="1.8" />
+      <module name="service-registry" target="1.8" />
       <module name="swansonservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="avatarservice" options="-parameters" />
       <module name="comicservice" options="-parameters" />
+      <module name="service-registry" options="-parameters" />
       <module name="swansonservice" options="-parameters" />
     </option>
   </component>

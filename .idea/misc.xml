@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/comicservice/pom.xml" />
         <option value="$PROJECT_DIR$/avatarservice/pom.xml" />
         <option value="$PROJECT_DIR$/swansonservice/pom.xml" />
+        <option value="$PROJECT_DIR$/service-registry/pom.xml" />
       </list>
     </option>
   </component>
