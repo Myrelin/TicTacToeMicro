@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/avatarservice/avatarservice.iml" filepath="$PROJECT_DIR$/avatarservice/avatarservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/comicservice/comicservice.iml" filepath="$PROJECT_DIR$/comicservice/comicservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swansonservice/swansonservice.iml" filepath="$PROJECT_DIR$/swansonservice/swansonservice.iml" />
     </modules>
   </component>
 </project>

@@ -10,9 +10,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class Comic {
 
-    @JsonProperty("title")
-    private String title;
-
     @JsonProperty("img")
     private String comicImage;
 
